@@ -1,0 +1,13 @@
+Variable,Description
+season,Finals year
+game,Game number in the series
+date,Game date (YYYY-MM-DD)
+"away, home",Team abbreviations as shown on the official game record
+"away_score, home_score",Final score
+winner,Winning team
+margin,Winning margin in points
+overtime_periods,"0 for regulation, 1 for one overtime, 2+ for multiple overtimes"
+arena,Building named on the game record
+attendance,Published attendance (blank for 2020)
+source_url,Official WNBA.com game record
+note,"Context for the game, if any"
