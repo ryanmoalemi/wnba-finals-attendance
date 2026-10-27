@@ -25,6 +25,6 @@ Attendance and scores for each game come from that game's official box score on 
 
 ## License and citation
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please credit and link the source:
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Free to use and republish (CC0). No credit required.
 
 > Full Court Buckets (Ryan Moalemi), "WNBA Finals attendance by year, 2002–2025," Dataset v1, 2026. https://fullcourtbuckets.com/news/2026-wnba-finals-ratings-tracker/
